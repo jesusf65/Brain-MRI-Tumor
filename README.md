@@ -1,1 +1,2 @@
-# Patient-20-Brain-tumor-proggression
+# Brain Tumor MRI
+Diagnosis: astrocytoma (grades: 2 and 3), oligodendroglioma (grades: 2 and 3), glioblastoma
